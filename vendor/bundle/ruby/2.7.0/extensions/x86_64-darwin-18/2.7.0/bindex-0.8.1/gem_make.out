@@ -1,0 +1,15 @@
+current directory: /Users/yoo_ad/work/2021/saitankyori-webapp/SimpleBBS/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/yoo_ad/.rbenv/versions/2.7.1/bin/ruby -I /Users/yoo_ad/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20210416-28929-mpmgfh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yoo_ad/work/2021/saitankyori-webapp/SimpleBBS/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/yoo_ad/work/2021/saitankyori-webapp/SimpleBBS/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/yoo_ad/work/2021/saitankyori-webapp/SimpleBBS/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210416-28929-1u86igo/skiptrace/internal
